@@ -1,0 +1,21 @@
+Fieldname,Value,Xpath,Hook Strategy
+Name,Ashar,//input[@name='name'],xpath
+Website,rolustech.net,//input[@name='website'],xpath
+Industry,Bankings,//span[@data-fieldname='industry']//a[@class='select2-choice select2-default'],xpath
+Member of,Ashar,//span[@data-fieldname='parent_name']//a[@class='select2-choice select2-default'],xpath
+Type,Analyst,//span[@data-fieldname='account_type']//a[@class='select2-choice select2-default'],xpath
+Assigned to,null,//span[@data-fieldname='assigned_user_name']//a[@class='select2-choice'],xpath
+Office Phone,923214505508,//input[@name='phone_office'],xpath
+Billing Street,Street 2,//textarea[@name='billing_address_street'],xpath
+Billing Postal Code,54000,//input[@name='billing_address_postalcode'],xpath
+Billing Country,Pakistan,//input[@name='billing_address_country'],xpath
+Save,null,,xpath
+Billing City,Lahore,//input[@name='billing_address_city'],xpath
+Banking1,null,//div[@id='select2-drop']//*[text()='Banking'],xpath
+Type1,null,//div[@id='select2-drop']//*[text()='Analyst'],xpath
+Assigned to 1,null,//li[@class='select2-result'],xpath
+Assigned to 2,null,//input[@id='Users_select_1'],xpath
+Member of 1,Ashar,//div[@id='select2-drop']//input,xpath
+Member of 2,null,//div[@id='select2-drop']//ul[@class='select2-results']//li[1],xpath
+LoginName,admin,//input[@name='username'],xpath
+LoginPass,admin,//input[@name='password'],xpath
