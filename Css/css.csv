@@ -1,0 +1,19 @@
+Name,Usama,input[name=name],css,field
+Website,rolustech.net,input[name=website],css,field
+Industry,no,span[data-fieldname=industry] a,css,dropdown
+Industry1,Banking,#select2-drop input,css,field
+Industry2,no,span.select2-match,css,dropdown
+Member of,no,span[data-fieldname=parent_name] a,css,dropdown
+Member  of 1,Ashar,#select2-drop input,css,field
+Member of 2 ,no,span.select2-match,css,dropdown
+Assigned To,no,span[data-fieldname=assigned_user_name] a,css,dropdown
+Assigned To 1,admin Administrator,#select2-drop input,css,field
+Assigned To 2,no,span.select2-match,css,dropdown
+Type,no,span[data-fieldname=account_type] a,css,dropdown
+Type 1,Analyst,#select2-drop input,css,field
+Type 2,no,span.select2-match,css,dropdown
+Billing Country,Pakistan,input[name=billing_address_country],css,field
+Office Phone,923214505508,input[name=phone_office],css,field
+Billing Street,Street 2,textarea[name=billing_address_street],css,field
+Billing Postal Code,54000,input[name=billing_address_postalcode],css,field
+Billing City,Lahore,input[name=billing_address_city],css,field
